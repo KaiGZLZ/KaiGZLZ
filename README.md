@@ -17,7 +17,6 @@ I have only worked on private projects so the repositories cannot be viewed 😅
 - ⭐⭐ MySQL
 - ⭐⭐ ChakraUI
 - ⭐⭐ React Testing Library
-<br/>
 - ⭐ I wont show technologies that I don´t handle decently 😉
 <br/>
 <br/>
