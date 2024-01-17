@@ -18,11 +18,10 @@ I have only worked on private projects so the repositories cannot be viewed 😅
 - ⭐⭐ ChakraUI
 - ⭐⭐ React Testing Library
 <br/>
-<br/>
 - ⭐ I wont show technologies that I don´t handle decently 😉
-
+<br/>
 I also have permission to show some projects I have worked on (although not the code 😅) so if you contact me, I can quickly show what I can do 💪
-
+<br/>
 Happy coding!!!
 
 <!--
